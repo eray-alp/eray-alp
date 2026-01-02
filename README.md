@@ -1,14 +1,11 @@
 # Hi! My name is Eray Alp. 👋
 I'm a Software Engineer specializing in **Infrastructure** and **Applied AI**, based in Istanbul, Turkey.
 
-## About Me
 I design, build, and operate cloud-native systems that power production services and ML workloads with a focus on reliability and scalability. I work at the intersection of **software engineering**, **AI/ML**, **infrastructure**, and **data pipelines**, blending engineering fundamentals with machine learning expertise.
 
 Currently, I'm a **DevOps Engineer Intern at Codeway**, working across DevOps/SRE, platform engineering, and MLOps, powering global AI-powered apps used by millions.
 
-Previously, I worked as an **ML Engineer Intern at sahibinden.com**, one of Turkey's largest marketplaces, where I helped transition high-traffic production systems from rule-based logic to LLM-powered services, building scalable inference pipelines with evaluation and monitoring.
-
-Before that, at **Insider One**, I contributed to production-scale semantic search, large data ingestion pipelines, vector indexing, and hybrid retrieval systems.
+Previously, I worked on production ML systems at sahibinden.com and Insider, building LLM-powered inference pipelines, large-scale semantic search, data ingestion pipelines, vector indexing, and hybrid retrieval systems.
 
 ### My key areas of interest:
 - DevOps/SRE, Infrastructure & Platform Engineering
