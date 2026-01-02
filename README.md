@@ -46,14 +46,10 @@ Before that, at **Insider One**, I contributed to production-scale semantic sear
   <img src="https://skillicons.dev/icons?i=vue" height="48" alt="vuejs logo"  />
 </div>
 
----
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erayalp/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/erayalp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erayalp.e@gmail.com)
-
----
 
 💼 Currently building cloud-native infrastructure and ML systems at **Codeway**  
 🎓 Computer Engineering student  
